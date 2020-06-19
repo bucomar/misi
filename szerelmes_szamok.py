@@ -1,4 +1,4 @@
-# Szerelmes szamok - Misi 2. programja
+# Szerelmes szamok - Misi 2. programja. Minden jog fenntartva.
 
 print('A szerelmes szamok a kovetkezok:')
 print('0 + 10')

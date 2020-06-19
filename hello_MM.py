@@ -1,4 +1,4 @@
-#Misi elsö python programja
+#Misi elsö python programja. Minden jog fenntartva.
 
 MM = 'Misi'
 MA = 'Bandi'
